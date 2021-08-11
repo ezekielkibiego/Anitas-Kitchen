@@ -1,0 +1,13 @@
+.header {
+    background-image: url("assets3/backgrounds/landing.jpg");
+    background-repeat: no-repeat;
+}
+#logo{
+ padding-top: 10%;
+ padding-left: 40%;
+}.text1{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    padding-bottom: 10%;
+}
