@@ -24,3 +24,63 @@
     font-size: xx-large;
     padding-bottom: 10%;
 }
+#main {
+    
+    display: flex;
+    align-items: stretch;
+
+  }
+  
+  #main div{
+      margin: 0;
+      margin-left: 0;
+      margin-top: 0px;
+    
+      
+
+    
+  }
+  #main .text2{
+      margin-top: -15px;
+      margin-bottom: -17px;
+      
+      
+      
+      
+      
+  }
+  #main .text2 .time{
+      background-color: lightgrey;
+      padding-right: 221px;
+      padding-bottom: 64px;
+    
+  }
+  #main .text2 .hour{
+      background-color: orangered;
+      padding-right: 221px;
+      padding-bottom: 60px;
+      padding-top: 1px;
+  }
+
+  
+  #main .text3{
+      background-image: url("assets3/foodtop/breakfast.jpg");
+      background-repeat: no-repeat;
+      padding: 137px;
+      color: white;
+      font-style: italic;
+      
+  }#main .text4{
+      background-image: url("assets3/foodtop/lunch.jpg");
+      background-repeat: no-repeat;
+      padding: 140px;
+      color: white;
+      font-style: italic;
+  }
+#main .text5{
+    background-image: url("assets3/foodtop/dinner.jpg");
+    background-repeat: no-repeat;
+    padding: 140px;
+    color: white;
+    font-style: italic;
+}
