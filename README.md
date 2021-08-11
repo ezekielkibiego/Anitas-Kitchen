@@ -11,7 +11,7 @@
 {None}
 ## {HTML and CSS}
 ## Support and contact details
-{In case of contributions or questions, email  ezekiel.nyambane@student.moringaschool.com}
+{In case of contributions or questions, email  ezekiel.nyambane@student.moringaschool.com / kibiezekiel@gmail.com}
 ### License
 MIT License
 Copyright (c) {2021} **{Ezekiel Kibiego}**
