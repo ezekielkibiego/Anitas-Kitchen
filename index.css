@@ -29,7 +29,6 @@
     display: flex;
     align-items: stretch;
     position: relative;
-    text-align: center;
 
   }
   
@@ -53,8 +52,8 @@
   }
   #main .text2 .time{
       background-color: lightgrey;
-      padding-right: 223px;
-      padding-bottom: 64px;
+      padding-right: 240px;
+      padding-bottom: 52px;
       color: solid black;
       
      
@@ -62,8 +61,8 @@
   }
   #main .text2 .hour{
       background-color: orangered;
-      padding-right: 223px;
-      padding-bottom: 60px;
+      padding-right: 240px;
+      padding-bottom: 52px;
       padding-top: 1px;
       color: white;
       
@@ -73,29 +72,31 @@
   #main .text3{
       background-image: url("assets3/foodtop/breakfast.jpg");
       background-repeat: no-repeat;
-      padding: 137px;
+      padding: 145px;
       color: white;
       font-style: italic;
       
       
-  }#main .text4{
+  }
+  #main .text4{
       background-image: url("assets3/foodtop/lunch.jpg");
       background-repeat: no-repeat;
-      padding: 140px;
+      padding: 145px;
       color: white;
       font-style: italic;
+      
   }
+
 #main .text5{
     background-image: url("assets3/foodtop/dinner.jpg");
     background-repeat: no-repeat;
-    padding: 140px;
+    padding: 145px;
     color: white;
     font-style: italic;
 }
 #fastfood .images{
     display: inline-block;
     margin-left: 200px;
-    border: 30px solid white;
 }
 
 #fastfood .fast {
