@@ -28,6 +28,8 @@
     
     display: flex;
     align-items: stretch;
+    position: relative;
+    text-align: center;
 
   }
   
@@ -35,6 +37,7 @@
       margin: 0;
       margin-left: 0;
       margin-top: 0px;
+
     
       
 
@@ -47,14 +50,14 @@
       
       
       
-      
   }
   #main .text2 .time{
       background-color: lightgrey;
       padding-right: 223px;
       padding-bottom: 64px;
       color: solid black;
-      text-align: center;
+      
+     
     
   }
   #main .text2 .hour{
@@ -63,6 +66,7 @@
       padding-bottom: 60px;
       padding-top: 1px;
       color: white;
+      
   }
 
   
@@ -87,4 +91,14 @@
     padding: 140px;
     color: white;
     font-style: italic;
+}
+#fastfood .images{
+    display: inline-block;
+    margin-left: 200px;
+    border: 30px solid white;
+}
+
+#fastfood .fast {
+    margin-top: -400px;
+    margin-left: 800px;
 }
