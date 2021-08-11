@@ -51,15 +51,18 @@
   }
   #main .text2 .time{
       background-color: lightgrey;
-      padding-right: 221px;
+      padding-right: 223px;
       padding-bottom: 64px;
+      color: solid black;
+      text-align: center;
     
   }
   #main .text2 .hour{
       background-color: orangered;
-      padding-right: 221px;
+      padding-right: 223px;
       padding-bottom: 60px;
       padding-top: 1px;
+      color: white;
   }
 
   
@@ -69,6 +72,7 @@
       padding: 137px;
       color: white;
       font-style: italic;
+      
       
   }#main .text4{
       background-image: url("assets3/foodtop/lunch.jpg");
