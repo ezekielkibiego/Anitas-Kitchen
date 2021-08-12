@@ -60,7 +60,7 @@
     
   }
   #main .text2 .hour{
-      background-color: orangered;
+      background-color: #F15A29;
       padding-right: 240px;
       padding-bottom: 52px;
       padding-top: 1px;
@@ -110,4 +110,8 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
+}
+
+#footer {
+    background-color: #F15A29;
 }
