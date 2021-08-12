@@ -51,7 +51,7 @@ body{
   #main .text2 .time{
       background-color: lightgrey;
       padding-right: 240px;
-      padding-bottom: 47px;
+      padding-bottom: 50px;
       color: solid black;
 
       
@@ -61,7 +61,7 @@ body{
   #main .text2 .hour{
       background-color: #F15A29;
       padding-right: 240px;
-      padding-bottom: 47px;
+      padding-bottom: 60px;
       padding-top: 1px;
       color: white;
       
