@@ -35,20 +35,15 @@ body{
     
     display: flex;
     align-items: stretch;
-    position: relative;
 
   }
   
-  #main div{
+  /*#main div{
       margin: 0;
       margin-left: 0;
       margin-top: 0px;
-
-    
       
-
-    
-  }
+  }*/
   #main .text2{
    margin-top: -15px;
    
@@ -76,7 +71,7 @@ body{
   #main .text3{
       background-image: url("assets3/foodtop/breakfast.jpg");
       background-repeat: no-repeat;
-      padding: 135px;
+      padding: 130px;
       color: white;
       font-style: italic;
       
@@ -85,7 +80,7 @@ body{
   #main .text4{
       background-image: url("assets3/foodtop/lunch.jpg");
       background-repeat: no-repeat;
-      padding: 135px;
+      padding: 130px;
       color: white;
       font-style: italic;
       
@@ -94,7 +89,7 @@ body{
 #main .text5{
     background-image: url("assets3/foodtop/dinner.jpg");
     background-repeat: no-repeat;
-    padding: 135px;
+    padding: 130px;
     color: white;
     font-style: italic;
 }
