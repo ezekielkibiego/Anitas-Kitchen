@@ -7,7 +7,6 @@ body{
 
 .container {
     display: inline-block;
-    cursor: pointer;
     margin-top: 50px;
   }
   
@@ -36,6 +35,7 @@ body{
     
     display: flex;
     align-items: stretch;
+    width: 100%;
 
   }
   
@@ -54,6 +54,7 @@ body{
       padding-right: 240px;
       padding-bottom: 68px;
       color: solid black;
+      width: 25%;
 
       
      
@@ -65,6 +66,7 @@ body{
       padding-bottom: 62px;
       padding-top: 1px;
       color: white;
+      width: 25%;
       
   }
 
@@ -72,27 +74,27 @@ body{
   #main .text3{
       background-image: url("assets3/foodtop/breakfast.jpg");
       background-repeat: no-repeat;
-      padding: 135px;
       color: white;
       font-style: italic;
+      width: 25%;
       
       
   }
   #main .text4{
       background-image: url("assets3/foodtop/dinner2.jpg");
       background-repeat: no-repeat;
-      padding: 135px;
       color: white;
       font-style: italic;
-      
+      width: 25%;
   }
 
 #main .text5{
     background-image: url("assets3/foodtop/dinner.jpg");
     background-repeat: no-repeat;
-    padding: 135px;
+    
     color: white;
     font-style: italic;
+    width: 25%;
 }
 #fastfood .images{
     display: inline-block;
