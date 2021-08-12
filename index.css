@@ -76,7 +76,7 @@ body{
   #main .text3{
       background-image: url("assets3/foodtop/breakfast.jpg");
       background-repeat: no-repeat;
-      padding: 141px;
+      padding: 140px;
       color: white;
       font-style: italic;
       
@@ -85,7 +85,7 @@ body{
   #main .text4{
       background-image: url("assets3/foodtop/lunch.jpg");
       background-repeat: no-repeat;
-      padding: 141px;
+      padding: 140px;
       color: white;
       font-style: italic;
       
@@ -94,7 +94,7 @@ body{
 #main .text5{
     background-image: url("assets3/foodtop/dinner.jpg");
     background-repeat: no-repeat;
-    padding: 141px;
+    padding: 140px;
     color: white;
     font-style: italic;
 }
@@ -178,8 +178,8 @@ body{
     border: 10px solid whitesmoke;
     margin-right: 250px;
     padding-left: 50px;
-    padding-bottom: 80px;
-    margin-top: 70px;
+    padding-bottom: 50px;
+    margin-top: 40px;
 }
 .about h4{
     color: #F15A29;;
