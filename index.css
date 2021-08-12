@@ -109,12 +109,13 @@
     background-image: url("assets3/backgrounds/foodsBg.jpg");
     background-repeat: no-repeat;
     padding: 100px;
+    opacity: 1;
 }
 .burger .texts {
     display: flex;
     justify-content: space-between;
-    position: relative;
-    margin-left: 140px;
+    
+    margin-left: 100px;
     color: black;
     margin-top: -100px;
     padding-left: 50px;
@@ -122,10 +123,21 @@
     padding-top: 80px;
 
 }
+.burger .texts .rice {
+    display: flex;
+    flex: 50px;
+    justify-content: space-around;
+    background-color: lightgrey;
+    padding-right: 0px;
+    margin-left: 50px;
+    margin-right: -130px;
+}
+
 .burger .plates {
     display: flex;
+    justify-content: space-around;
     background-color: white;
-    padding-left: 100px;
+    padding-left: 20px;
     padding-top: 120px;
     padding-bottom: 20px;
     padding-right: 20px;
