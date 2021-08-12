@@ -1,5 +1,5 @@
 body{
-    border: 2x solid orangered;
+    font-family: serif;
 }
 
 .container {
@@ -48,18 +48,15 @@ body{
     
   }
   #main .text2{
-      margin-top: -15px;
-      margin-bottom: -17px;
-      
-      
-      
-      
+   margin-top: -15px;
+   
   }
   #main .text2 .time{
       background-color: lightgrey;
       padding-right: 240px;
-      padding-bottom: 52px;
+      padding-bottom: 50px;
       color: solid black;
+
       
      
     
@@ -67,7 +64,7 @@ body{
   #main .text2 .hour{
       background-color: #F15A29;
       padding-right: 240px;
-      padding-bottom: 52px;
+      padding-bottom: 50px;
       padding-top: 1px;
       color: white;
       
@@ -106,19 +103,23 @@ body{
 
 #fastfood .fast {
     margin-top: -400px;
-    margin-left: 800px;
+    margin-left: 720px;
 }
 .drinks .text6 {
-    margin-left: -700px;
+    margin-left: -500px;
     margin-bottom: 100px;
     margin-top: 180px;
     text-align: center;
 }
-.drinks .images2{
-    margin-left: 600px;
-    margin-bottom: 40px ; 
-    margin-top: -350px;
+ 
+.tablink2 {
+    padding-right: 20px;
     padding-left: 20px;
+}
+.drinks .images2{
+    margin-left: 700px;
+    margin-bottom: 40px ; 
+    margin-top: -400px;
 }
 
 .burger {
@@ -212,7 +213,7 @@ body{
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    padding-bottom: 90px;
+    padding-bottom: 70px;
     padding-top: 90px;
     margin-top: 100px;
 }
