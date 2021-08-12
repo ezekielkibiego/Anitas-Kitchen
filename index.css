@@ -105,6 +105,39 @@
     margin-left: 800px;
 }
 
+.burger {
+    background-image: url("assets3/backgrounds/foodsBg.jpg");
+    background-repeat: no-repeat;
+    padding: 100px;
+}
+.burger .texts {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 140px;
+    color: black;
+    margin-top: -100px;
+    padding-left: 50px;
+    padding-right: 200px;
+    padding-top: 80px;
+
+}
+.burger .plates {
+    display: flex;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 120px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: -50px;
+    margin-bottom: -40px;
+
+
+}
+
+
 .about {
     margin-left: 200px;
     border: 10px solid whitesmoke;
