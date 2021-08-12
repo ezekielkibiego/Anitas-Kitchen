@@ -64,7 +64,7 @@ body{
   #main .text2 .hour{
       background-color: #F15A29;
       padding-right: 240px;
-      padding-bottom: 50px;
+      padding-bottom: 40px;
       padding-top: 1px;
       color: white;
       
@@ -74,7 +74,7 @@ body{
   #main .text3{
       background-image: url("assets3/foodtop/breakfast.jpg");
       background-repeat: no-repeat;
-      padding: 145px;
+      padding: 143px;
       color: white;
       font-style: italic;
       
@@ -83,7 +83,7 @@ body{
   #main .text4{
       background-image: url("assets3/foodtop/lunch.jpg");
       background-repeat: no-repeat;
-      padding: 145px;
+      padding: 143px;
       color: white;
       font-style: italic;
       
@@ -92,7 +92,7 @@ body{
 #main .text5{
     background-image: url("assets3/foodtop/dinner.jpg");
     background-repeat: no-repeat;
-    padding: 145px;
+    padding: 143px;
     color: white;
     font-style: italic;
 }
@@ -213,7 +213,7 @@ body{
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    padding-bottom: 70px;
+    padding-bottom: 68px;
     padding-top: 90px;
     margin-top: 100px;
 }
