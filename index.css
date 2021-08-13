@@ -52,7 +52,7 @@ body{
   #main .text2 .time{
       background-color: lightgrey;
       padding-right: 240px;
-      padding-bottom: 68px;
+      padding-bottom: 62px;
       color: solid black;
       width: 25%;
 
@@ -120,6 +120,7 @@ body{
     padding-left: 20px;
 }
 .drinks .images2{
+    display: flex;
     margin-left: 600px;
     margin-bottom: 40px ; 
     margin-top: -500px;
